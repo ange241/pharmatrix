@@ -76,7 +76,7 @@
         </div>
         
       </div>
-      <span> <a href="./backend/medicaments.php">voir Tous les medicaments</a></span>
+      <span> <!--<a href="./backend/medicaments.php"> -->voir Tous les medicaments</a></span>
     </section>
     <footer>
       <div class="content">
